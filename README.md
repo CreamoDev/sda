@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi! I'm Donut<img src="https://cdn.discordapp.com/attachments/380085492730953728/888778165814693918/wave.gif" width="27px">
 
-<!--
-**DonutTheDev/DonutTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://discord.c99.nl/widget/theme-1/380085492730953728.png)](https://discord.com/users/380085492730953728)
+- :telescope: I’m currently working on holonodes
+- :seedling: I’m currently learning reactjs
+- :speech_balloon: Ask me about how to make free sites
+- :mailbox: How to reach me: dm me on discord Cluner#1234
+- :zap: Fun fact: your sexy
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bar_chart: Stats
+
+<!--START_SECTION:waka-->
+Soon!
+<!--END_SECTION:waka-->
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+Soon!
+<!--END_SECTION:activity-->

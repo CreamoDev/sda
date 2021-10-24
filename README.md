@@ -1,6 +1,6 @@
 ## Hi! I'm Donut<img src="https://cdn.discordapp.com/attachments/380085492730953728/888778165814693918/wave.gif" width="27px">
 
-[[Discord](https://discord.c99.nl/widget/theme-3/380085492730953728.png)
+[![Discord](https://discord.c99.nl/widget/theme-3/380085492730953728.png)
 - :telescope: I’m currently working on holonodes
 - :seedling: I’m currently learning reactjs
 - :speech_balloon: Ask me about how to make free sites
